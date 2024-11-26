@@ -2,5 +2,3 @@ Primera version
 
 Añado mas contenido al archivo
 Segunda version
-
-Y esta va a ser la tercera version
